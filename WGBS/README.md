@@ -1,2 +1,1 @@
-This folder contains scripts used for analyzing WGBS (methylation) data.
-sample_info.xlsx is a required file for running DMRichR.R.
+This folder contains scripts used for analyzing WGBS (methylation) data. The number at the beginning of the script names indicate the order in which they were run. sample_info.xlsx is a required file for running DMRichR.R.
