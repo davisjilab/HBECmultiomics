@@ -1,0 +1,1 @@
+This folder contains a general script used for identifying and calculating the significance of overlaps between sets of coordinates (e.g. differentially methylated regions and differentially accessible regions) using bedtools
