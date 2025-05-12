@@ -1,1 +1,1 @@
-Analyses from "TET1 regulates responses to house dust mite by altering chromatin accessibility, DNA methylation, and transcription factor binding in airway epithelial cells" by Anthony P. Brown, Sreeja Parameswaran, Lucy Cai, Sweeney Elston, Chi Pham, Artem Barski, Matthew T. Weirauch, and Hong Ji
+Analyses from "Silencing TET1 expression alters the epigenomic landscape and amplifies transcriptomic responses to allergen in airway epithelial cells" by Anthony P. Brown, Sreeja Parameswaran, Lucy Cai, Sweeney Elston, Chi Pham, Artem Barski, Matthew T. Weirauch, and Hong Ji
